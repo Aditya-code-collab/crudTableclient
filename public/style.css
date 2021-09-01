@@ -1,0 +1,44 @@
+body{
+    font-weight: 400;
+    font-size: inherit;
+}
+.a {
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: rgb(0, 102, 219);
+  }
+  
+.assignstu{
+background-color: rgb(255, 255, 255);
+padding: 10px;
+margin: 10px;
+border-radius: 1%;
+}  
+.tablerow{
+background-color: yellow;
+
+}
+.tablecol{
+
+padding: 100px;
+}
+.table1{
+    width: 100%;
+}
+.head{
+   text-align: center;
+   color:blue;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.assign{
+   
+    padding: 20px;
+    height: 100vh;
+}
+.materialcheck{
+    color: rgb(0, 105, 109);
+}
+.materialdoing{
+    color: rgb(211, 121, 3);
+}
